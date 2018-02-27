@@ -8,4 +8,4 @@ def get_roots(a, b, c):
     if discriminant == 0:
         return root1, None
     else:
-        return (int(root1), int(root2))
+        return int(root1), int(root2)
