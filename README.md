@@ -8,7 +8,7 @@
 Возвращает кортеж с корнями квадратного уравнения при заданных параметрах.
 
 Пример использования:
-```bash
+```python
 from quadratic_equation import get_roots
 print(get_roots(1,2,-3))
 ```
